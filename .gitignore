@@ -1,0 +1,9 @@
+node_modules
+dist
+node-gyp.js
+npm-debug.log*
+package-lock.json
+test
+
+.parcel-cache
+
